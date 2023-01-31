@@ -1,0 +1,7 @@
+D:\Develop\Personal\WCFLoginService\wcfLoginService\wcfLoginService\bin\wcfLoginService.dll.config
+D:\Develop\Personal\WCFLoginService\wcfLoginService\wcfLoginService\bin\wcfLoginService.dll
+D:\Develop\Personal\WCFLoginService\wcfLoginService\wcfLoginService\bin\wcfLoginService.pdb
+D:\Develop\Personal\WCFLoginService\wcfLoginService\wcfLoginService\obj\Debug\wcfLoginService.csproj.AssemblyReference.cache
+D:\Develop\Personal\WCFLoginService\wcfLoginService\wcfLoginService\obj\Debug\wcfLoginService.csproj.CoreCompileInputs.cache
+D:\Develop\Personal\WCFLoginService\wcfLoginService\wcfLoginService\obj\Debug\wcfLoginService.dll
+D:\Develop\Personal\WCFLoginService\wcfLoginService\wcfLoginService\obj\Debug\wcfLoginService.pdb
